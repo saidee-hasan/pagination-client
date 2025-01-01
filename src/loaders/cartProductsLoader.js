@@ -8,7 +8,7 @@ const cartProductsLoader = async () => {
     // Get the stored cart data
     const storedCart = getShoppingCart();
     const storedCartId = Object.keys(storedCart);
-    console.log(storedCart);
+    console.log(storedCart
 
     // Fetch the products by their IDs
     const loadedProductsByIdResponse = await fetch('http://localhost:5000/productById', {
