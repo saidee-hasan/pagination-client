@@ -27,5 +27,5 @@ This is a simple React application that demonstrates how to implement pagination
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/pagination-client.git
+   git clone https://github.com/saidee-hasan/pagination-client.git
    cd pagination-client
